@@ -14,5 +14,5 @@ onscreen_buttons_position=left
 onscreen_buttons=back forward home refresh 
 allow_popup_windows=yes
 wallpaper=https://porteus-kiosk.org/public/wallpapers/sample.jpg
-whitelist=makerspace.anu.edu.au docs.google.com
+whitelist=makerspace.anu.edu.au docs.google.com maps.google.com https://raw.githubusercontent.com/
 additional_components=uefi.zip 
