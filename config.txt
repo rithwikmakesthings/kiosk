@@ -1,1 +1,9 @@
-ggwp
+connection=wifi
+dhcp=yes
+wifi_encryption=eap-peap
+peap_username=MakerSpace
+peap_password=UnchartedTerritory2023
+ssid_name=ANU-Secure
+browser=firefox
+kiosk_config=https://raw.githubusercontent.com/rithwikmakesthings/kiosk/main/config.txt
+additional_components=uefi.zip
