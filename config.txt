@@ -5,7 +5,7 @@ peap_username=MakerSpace
 peap_password=UnchartedTerritory2023
 ssid_name=ANU-Secure
 browser=firefox
-homepage=makerspace.anu.edu.au
+homepage=https://docs.google.com/presentation/d/e/2PACX-1vTfBpuKDkrmGlOr6WAKtCC87fQ1DNK-EBCtUSemWRoQzOHaYM1rNAZPPMk3IJw4DrBE9TAliUOCUlBx/pub?start=true&loop=true&delayms=3000
 session_idle_forced=2
 hide_mouse=1
 disable_navigation_bar=yes
