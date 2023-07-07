@@ -8,11 +8,13 @@ browser=firefox
 homepage=https://docs.google.com/presentation/d/e/2PACX-1vTfBpuKDkrmGlOr6WAKtCC87fQ1DNK-EBCtUSemWRoQzOHaYM1rNAZPPMk3IJw4DrBE9TAliUOCUlBx/pub?start=true&loop=true&delayms=3000
 session_idle_forced=1
 hide_mouse=20
+screen_rotate=right
 disable_navigation_bar=yes
 kiosk_config=https://raw.githubusercontent.com/rithwikmakesthings/kiosk/main/config.txt
 onscreen_buttons_position=bottom
 onscreen_buttons=back forward home refresh 
 allow_popup_windows=no
-wallpaper=https://makerspace.anu.edu.au/page/join_files/bgImage-15955.jpg
-whitelist=makerspace.anu.edu.au docs.google.com maps.google.com https://raw.githubusercontent.com/ calendar.google.com
+wallpaper=https://github.com/rithwikmakesthings/kiosk/blob/main/bgImage-15955.png?raw=true
+whitelist=makerspace.anu.edu.au docs.google.com maps.google.com https://raw.githubusercontent.com/ calendar.google.com https://anumakerspace.notion.site
 additional_components=uefi.zip 
+
