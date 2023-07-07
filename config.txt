@@ -15,6 +15,6 @@ onscreen_buttons_position=bottom
 onscreen_buttons=back forward home refresh 
 allow_popup_windows=no
 wallpaper=https://github.com/rithwikmakesthings/kiosk/blob/main/bgImage-15955.png?raw=true
-whitelist=makerspace.anu.edu.au docs.google.com maps.google.com https://raw.githubusercontent.com/ calendar.google.com https://anumakerspace.notion.site https://unchartedterritory.com.au google.com
+whitelist=makerspace.anu.edu.au docs.google.com maps.google.com https://raw.githubusercontent.com/ calendar.google.com https://anumakerspace.notion.site https://unchartedterritory.com.au google.com forms.office.com
 additional_components=uefi.zip 
 
